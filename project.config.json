@@ -96,6 +96,12 @@
           "pathName": "pages/cart/index",
           "query": "goods_id=43986",
           "scene": null
+        },
+        {
+          "id": -1,
+          "name": "购物车",
+          "pathName": "pages/pay/index",
+          "scene": null
         }
       ]
     }

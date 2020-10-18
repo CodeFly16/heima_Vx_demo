@@ -89,6 +89,7 @@ page {
   height: 90rpx;
   display: flex;
   border-top: 1px solid #ccc;
+  background-color: #fff;
 }
 .footer_tool .all_chk_wrap {
   flex: 2;
